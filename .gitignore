@@ -1,6 +1,5 @@
-!*.c
-!*.h
-!*.bat
-!.uvprojx
-!.uvoptx
 *~
+*.bak
+*/Listings/*
+*/Objects/*
+*.uvguix.*
